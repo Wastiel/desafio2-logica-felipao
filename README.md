@@ -25,6 +25,4 @@ Se vitórias for maior ou igual a 101 = Imortal
 Ao final deve se exibir uma mensagem:
 <<<<<<< HEAD
 "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
-=======
-"O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
->>>>>>> cdf3d14ac5e1425269bf38c2353b9f6abc4e0901
+
